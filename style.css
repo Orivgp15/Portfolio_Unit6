@@ -1,17 +1,22 @@
+    body{
+     color: #6700FF;
+    }
+    
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background:url(galaxy.jpeg);
       background-size: cover;
-      color: white;
+      background-color: black;
     }
     .nav {
-      color: white;
+      color: #00EDFF;
     }
     h1 {
       font-size: 70px;
+      color: orangered;
     }
     img {
-      margin: 40px 0px 0px 0px;
+      margin: 40px 0px 0px 0px; 
       border: 7px solid white;
       border-radius: 20px;
     }
@@ -22,6 +27,7 @@
     li {
       display: inline;
       padding: 0px 10px 0px 10px;
+      
     }
     div{
       max-width: 500px;
@@ -37,4 +43,8 @@
         padding: 5px;
         display: block;
       }
+    }
+    #profile{
+    hight: 350px;
+    width: 350px;
     }
