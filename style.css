@@ -33,6 +33,7 @@
       max-width: 500px;
       padding: 20px;
       margin: 0 auto;
+      background:url(gradient.jpeg); 
     }
     @media (max-width: 500px) {
       h1 {
@@ -45,6 +46,7 @@
       }
     }
     #profile{
-    hight: 350px;
+    height:350px;
     width: 350px;
     }
+    .proyect-tytle
