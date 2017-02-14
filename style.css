@@ -1,12 +1,14 @@
     body{
      color: #6700FF;
+     background-attachment: fixed;
+     background:url(gradient2.jpeg);
     }
     
     header {
       text-align: center;
       background:url(galaxy.jpeg);
       background-size: cover;
-      background-color: black;
+      
     }
     .nav {
       color: #00EDFF;
